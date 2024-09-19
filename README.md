@@ -1,1 +1,1 @@
-# nypswiftappdev.github.io
+# NYP Swift App Development Club
